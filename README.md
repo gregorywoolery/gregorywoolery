@@ -2,10 +2,10 @@
 
 
 <p align="center">
-<img align="center" src="https://img.shields.io/github/followers/gregorywoolery?style=social" alt="GitHub" height="23" width="60"  />
-<img align="center" src="https://img.shields.io/twitter/follow/wooldon?style=social" alt="Twitter" height="23" width="70"  />
-<img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn" height="23" width="55"  />
-<img align="center" src="https://img.shields.io/badge/Gmail-%20%20-critical" alt="Gmail" height="23" width="40"  />
+<img align="center" src="https://img.shields.io/github/followers/gregorywoolery?style=social" alt="GitHub" height="23" width="80"  />
+<img align="center" src="https://img.shields.io/twitter/follow/wooldon?style=social" alt="Twitter" height="23" width="80"  />
+<img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn" height="23" width="60"  />
+<img align="center" src="https://img.shields.io/badge/Gmail-%20%20-critical" alt="Gmail" height="23" width="50"  />
 </p>
 
 ```javascript
