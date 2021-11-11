@@ -2,10 +2,10 @@
 
 
 <p align="center">
-<img align="center" src="https://img.shields.io/github/followers/gregorywoolery?style=social" alt="GitHub" height="30" width="40"  />
-<img align="center" src="https://img.shields.io/twitter/follow/wooldon?style=social" alt="Twitter" height="30" width="40"  />
-<img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="40"  />
-<img align="center" src="https://img.shields.io/badge/Gmail-%20%20-critical" alt="Gmail" height="30" width="40"  />
+<img align="center" src="https://img.shields.io/github/followers/gregorywoolery?style=social" alt="GitHub" height="20" width="50"  />
+<img align="center" src="https://img.shields.io/twitter/follow/wooldon?style=social" alt="Twitter" height="20" width="50"  />
+<img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" width="50"  />
+<img align="center" src="https://img.shields.io/badge/Gmail-%20%20-critical" alt="Gmail" height="20" width="40"  />
 </p>
 
 ```javascript
@@ -19,15 +19,17 @@ const greg = {
 
 ### A fast learning enthusiastic Jamaican 🇯🇲 developer
 
-<img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg">
-<img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg">
-<img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg">
-<img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg">
-<img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg">
+<p align="left"> 
+<img height="50" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg">
+<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
+<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">  
+</p>
+
+
