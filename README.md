@@ -2,11 +2,10 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gregory-woolery-7bab3620b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" style="border-radius: 2rem;"  /></a>
-
-<a href="https://twitter.com/wooldon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" style="border-radius: 2rem;"  /></a>
-
-<a href = "mailto: gregorywoolery1@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" style="border-radius: 2rem;" /></a>
+<img align="center" src="https://img.shields.io/github/followers/gregorywoolery?style=social" alt="GitHub" height="30" width="40"  />
+<img align="center" src="https://img.shields.io/twitter/follow/wooldon?style=social" alt="Twitter" height="30" width="40"  />
+<img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="40"  />
+<img align="center" src="https://img.shields.io/badge/Gmail-%20%20-critical" alt="Gmail" height="30" width="40"  />
 </p>
 
 ```javascript
@@ -20,15 +19,15 @@ const greg = {
 
 ### A fast learning enthusiastic Jamaican 🇯🇲 developer
 
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
+<img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg">
+<img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg">
+<img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg">
+<img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg">
+<img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg">
+<img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
